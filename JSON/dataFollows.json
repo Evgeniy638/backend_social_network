@@ -1,0 +1,111 @@
+[
+     {
+          "id": 1,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 2,
+          "followers": [],
+          "following": [
+               4,
+               5,
+               11,
+               3
+          ],
+          "friends": []
+     },
+     {
+          "id": 3,
+          "followers": [
+               "2"
+          ],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 4,
+          "followers": [
+               2
+          ],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 5,
+          "followers": [
+               "2"
+          ],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 6,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 7,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 8,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 9,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 10,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 11,
+          "followers": [
+               "2"
+          ],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 12,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 13,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 14,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 15,
+          "followers": [],
+          "following": [],
+          "friends": []
+     },
+     {
+          "id": 16,
+          "followers": [],
+          "following": [],
+          "friends": []
+     }
+]

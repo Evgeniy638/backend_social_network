@@ -1,0 +1,162 @@
+[
+     {
+          "id": 1,
+          "name": "Вася1",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 2,
+          "name": "Евгений",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "hello world)",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 3,
+          "name": "Вася3",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 4,
+          "name": "Вася4",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 5,
+          "name": "Вася5",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 6,
+          "name": "Вася6",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 7,
+          "name": "Вася7",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 8,
+          "name": "Вася8",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 9,
+          "name": "Вася9",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 10,
+          "name": "Вася10",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 11,
+          "name": "Вася11",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 12,
+          "name": "Вася12",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 13,
+          "name": "Вася13",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 14,
+          "name": "Вася14",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 15,
+          "name": "Вася15",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     },
+     {
+          "id": 16,
+          "name": "Вася16",
+          "location": {
+               "country": "Россия",
+               "city": "Москва"
+          },
+          "status": "люблю кушать",
+          "avatarImg": "undefined"
+     }
+]
